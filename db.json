@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "employee": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": ,
+      "username":"",
+      "emailid": "",
+      "mobileno": "",
+      "password": "",
+      "gender": "",
+      "empType": "",
+      "termscheck": ""
     },
     {
       "id": 2,
