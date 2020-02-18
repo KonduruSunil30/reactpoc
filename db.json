@@ -1,7 +1,6 @@
 {
   "employee": [
     {
-      "id":1 ,
       "username":"sunil",
       "emailid": "sunil@gmail.com",
       "mobileno": "9787645845",
