@@ -9,14 +9,6 @@
       "gender": "male",
       "empType": "IT",
       "termscheck": "true"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
     }
   ],
   "comments": [
