@@ -1,14 +1,14 @@
 {
   "employee": [
     {
-      "id": ,
-      "username":"",
-      "emailid": "",
-      "mobileno": "",
-      "password": "",
-      "gender": "",
-      "empType": "",
-      "termscheck": ""
+      "id":1 ,
+      "username":"sunil",
+      "emailid": "sunil@gmail.com",
+      "mobileno": "9787645845",
+      "password": "1234",
+      "gender": "male",
+      "empType": "IT",
+      "termscheck": "true"
     },
     {
       "id": 2,
